@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/build",
+  "command": "/usr/bin/clang -DDEBUG -DKBO_PLATFORM_MACOS -I/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/include -g -std=c2x -arch arm64 -Wall -Wextra -Wpedantic -O0 -g3 -fno-omit-frame-pointer -o CMakeFiles/kbo.dir/src/allocator.c.o -c /Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/allocator.c",
+  "file": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/allocator.c",
+  "output": "CMakeFiles/kbo.dir/src/allocator.c.o"
+},
+{
+  "directory": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/build",
+  "command": "/usr/bin/clang -DDEBUG -DKBO_PLATFORM_MACOS -I/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/include -g -std=c2x -arch arm64 -Wall -Wextra -Wpedantic -O0 -g3 -fno-omit-frame-pointer -o CMakeFiles/kbo.dir/src/kbo.c.o -c /Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/kbo.c",
+  "file": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/kbo.c",
+  "output": "CMakeFiles/kbo.dir/src/kbo.c.o"
+},
+{
+  "directory": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/build",
+  "command": "/usr/bin/clang -DDEBUG -DKBO_PLATFORM_MACOS -I/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/include -g -std=c2x -arch arm64 -Wall -Wextra -Wpedantic -O0 -g3 -fno-omit-frame-pointer -o CMakeFiles/kbo.dir/src/logger.c.o -c /Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/logger.c",
+  "file": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/logger.c",
+  "output": "CMakeFiles/kbo.dir/src/logger.c.o"
+},
+{
+  "directory": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/build",
+  "command": "/usr/bin/clang -DDEBUG -DKBO_PLATFORM_MACOS -I/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/include -g -std=c2x -arch arm64 -Wall -Wextra -Wpedantic -O0 -g3 -fno-omit-frame-pointer -o CMakeFiles/kbo.dir/src/main.c.o -c /Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/main.c",
+  "file": "/Users/clement-antoine-xavier/clement-antoine-xavier/kbo/src/main.c",
+  "output": "CMakeFiles/kbo.dir/src/main.c.o"
+}
+]

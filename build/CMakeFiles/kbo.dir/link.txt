@@ -1,0 +1,1 @@
+/usr/bin/clang -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -g3 CMakeFiles/kbo.dir/src/allocator.c.o CMakeFiles/kbo.dir/src/kbo.c.o CMakeFiles/kbo.dir/src/logger.c.o CMakeFiles/kbo.dir/src/main.c.o -o kbo  -Wl,-rpath,/usr/local/lib /usr/local/lib/libvulkan.dylib
